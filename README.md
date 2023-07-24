@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Erik Alexander Africano Mejía</h1>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
-<img src="https://www.grizzlybit.dev/blog/truth-about-being-a-full-stack-developer/cover.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erikmejiaa&label=Profile%20views&color=0e75b6&style=flat" alt="erikmejiaa" /> </p>
+
+<img src="https://www.grizzlybit.dev/blog/truth-about-being-a-full-stack-developer/cover.png">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erikmejiaa" alt="erikmejiaa" /></a> </p>
 
@@ -23,15 +24,11 @@
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erikmejiaa&show_icons=true&locale=en" alt="erikmejiaa" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erikmejiaa&" alt="erikmejiaa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erikmejiaa&theme=highcontrast" alt="erikmejiaa" /></p>
 
 ### 📊 My Stats : 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ErikMejiaA&show_icons=true&theme=highcontrast" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ErikMejiaA&show_icons=true&theme=highcontrast" /><br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikMejiaA&layout=compact&theme=highcontrast" />
 </a>
-
