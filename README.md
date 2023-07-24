@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Erik Alexander Africano Mejía</h1>
-<h3 align="center">A passionate fullstack developer from Colombia</h3>
+<h3 align="center">A passionate backend developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erikmejiaa&label=Profile%20views&color=0e75b6&style=flat" alt="erikmejiaa" /> </p>
 
-<!--<img src="https://www.grizzlybit.dev/blog/truth-about-being-a-full-stack-developer/cover.png">-->
-<!--<img src="https://www.espai.es/blog/wp-content/uploads/2017/11/curso-programacion-barcelona.png">-->
-<img src="https://www.assuresoft.com/sites/default/files/styles/blog_1900_360_/public/2022-06/assuresoft-blog-best-programming-languajes.png?itok=EmFw9QJJ">
+<!--<img src="https://www.grizzlybit.dev/blog/truth-about-being-a-full-stac-developer/cover.png">-->
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erikmejiaa" alt="erikmejiaa" /></a> </p>
 
@@ -17,6 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/erik-alexander-africano-mejia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/erik-alexander-africano-mejia/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
