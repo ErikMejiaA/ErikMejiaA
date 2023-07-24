@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erikmejiaa&label=Profile%20views&color=0e75b6&style=flat" alt="erikmejiaa" /> </p>
 
-<img src="https://www.grizzlybit.dev/blog/truth-about-being-a-full-stack-developer/cover.png">
+<!--<img src="https://www.grizzlybit.dev/blog/truth-about-being-a-full-stack-developer/cover.png">-->
+<!--<img src="https://www.espai.es/blog/wp-content/uploads/2017/11/curso-programacion-barcelona.png">-->
+<img src="https://www.assuresoft.com/sites/default/files/styles/blog_1900_360_/public/2022-06/assuresoft-blog-best-programming-languajes.png?itok=EmFw9QJJ">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erikmejiaa" alt="erikmejiaa" /></a> </p>
 
